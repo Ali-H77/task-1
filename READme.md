@@ -82,16 +82,6 @@ Assumes departments and job roles are already present in the database to populat
 
 Employee IDs must be unique integers.
 
-📸 Sample Screenshots (Optional)
-
-You can add screenshots of:
-
-The dashboard with graphs
-
-Add employee form
-
-Update employee form
-
 📬 Feedback or Contributions
 
 Feel free to fork this project or open issues for bugs and improvements.
